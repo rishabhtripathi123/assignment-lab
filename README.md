@@ -1,4 +1,4 @@
-# assignment-lab
+# Python Lab-Assignment 
 
 ```
 1.	Define an custom exception (i.e. user defined exception) class called "MyException". 
